@@ -33,11 +33,12 @@ http://ghost525.shinyapps.io/formula1_analysis
 
 ## Screenshots
 
-![Home](https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/home_shiny.png)
+<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/home_shiny.png" alt="Home">
 
-![Circuit](https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/circuits_shiny.png)
+<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/circuits_shiny.png" alt="Circuit">
 
-![Driver](https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/driver_shiny.png)
+<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/driver_shiny.png" alt="Driver">
+
 
 ## Acknowledgements
 [Kaggle F1 Championship dataset](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020)
