@@ -33,11 +33,11 @@ http://ghost525.shinyapps.io/formula1_analysis
 
 ## Screenshots
 
-<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/home_shiny.png" alt="Home">
+<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/main/home_shiny.png" alt="Home">
 
-<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/circuits_shiny.png" alt="Circuit">
+<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/main/circuits_shiny.png" alt="Circuit">
 
-<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/master/driver_shiny.png" alt="Driver">
+<img src="https://github.com/Adnan525/shinyApp_formula1_analysis/blob/main/driver_shiny.png" alt="Driver">
 
 
 ## Acknowledgements
